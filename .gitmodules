@@ -1,0 +1,3 @@
+[submodule "RST-Tace"]
+	path = RST-Tace
+	url = https://github.com/tkutschbach/RST-Tace
